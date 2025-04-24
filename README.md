@@ -56,6 +56,8 @@ r2=metrics.r2_score(y_test,y_pred)
 r2
 
 dt.predict([[5,6]])
+print("Name:Hashwatha M")
+print("Reg No:212223240051")
 
 ```
 ## Output:
@@ -73,6 +75,8 @@ dt.predict([[5,6]])
 ![image](https://github.com/user-attachments/assets/7662e923-5df4-45b3-ad2c-260c0682ec71)
 ## Data prediction :
 ![image](https://github.com/user-attachments/assets/4ac72c0d-d254-4465-b4b5-389909dcec01)
+
+![image](https://github.com/user-attachments/assets/19652dbd-ab9b-4d48-ae5a-f703f6cef57f)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
